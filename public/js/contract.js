@@ -93,4 +93,4 @@ var SmartContractABI = [
 	}
 ];
 
-var SmartContractAddress = "0xE91056dc1C1C8edac3F13404eE32501489A3981B";
+var SmartContractAddress = "0xA11Ec227392Fe85e0A2F6618dCBdd0Aa9E114202";
