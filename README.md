@@ -1,7 +1,7 @@
 # Voting App
 
 ## What is it?
-After many struggles, trials and errors, we were finaly able to create a voting application that allows for users to vote securely with the help of CodeXpert. 
+After many struggles, trials and errors, we were finally able to create a voting application that allows for users to vote securely with the help of CodeXpert. 
 
 ## How it works?
 This voting app currently has two candidates, Alice and Bob. To vote, one can use Metamask to connect to the ethereum blockchain. This enables the encryption of 
